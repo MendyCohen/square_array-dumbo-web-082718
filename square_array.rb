@@ -3,5 +3,5 @@ def square_array(array)
     array ** 2
     square_array = array
   end
-  square_array
+  #square_array
 end
